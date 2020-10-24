@@ -1,2 +1,2 @@
-# BrzvzkaKolba
- Yo many skrypt na blokowanie kolby here
+# BrzvzkaFlashbang
+ Elo skrypt na flasha
